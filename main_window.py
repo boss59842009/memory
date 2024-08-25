@@ -42,7 +42,7 @@ h_line.addLayout(v_line2)
 answer_group_box.setLayout(h_line)
 
 result_group_box = QGroupBox("Результат теста") # створення групи віджетів
-lbl_correct = QLabel('правильно')
+lbl_correct = QLabel('Правильно')
 lbl_right = QLabel('правильна відповідь')
 
 result_line = QVBoxLayout()
