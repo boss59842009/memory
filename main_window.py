@@ -11,7 +11,7 @@ btn_sleep = QPushButton("Відпочити")
 
 box_minutes = QSpinBox() # створення лічильника хвилин
 box_minutes.setValue(30)
-box_minutes_lbl = QLabel("хвилин")
+box_minutes_lbl = QLabel("хвилин")# напис
 
 question_lbl = QLabel('Question')
 
